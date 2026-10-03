@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Temp dir used when restoring/sharing a decrypted vault file -->
+    <cache-path name="vault_export" path="export/" />
+    <files-path name="internal_files" path="." />
+</paths>
